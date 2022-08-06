@@ -15,6 +15,8 @@ export default function Home() {
       <Header />
 
       {/* Feeder */}
+
+      {/* Modal */}
     </div>
   );
 }
